@@ -89,6 +89,15 @@
             "penulis" : "Napoleon Hill",
             "kategori" : "Gaya Hidup",
             "deskripsi" : "Buku ini berisi rahasia menghasilkan uang yang bisa mengubah hidup Anda. Think and Grow Rich, berdasarkan Hukum Kesuksesan penulis yang terkenal, mewakili kebijaksanaan suling dari orang-orang terkemuka yang kaya raya dan berprestasi. Formula ajaib Andrew Carnegie untuk sukses menjadi inspirasi langsung bagi buku ini. Carnegie mendemonstrasikan kekokohannya ketika kepelatihannya membawa keberuntungan bagi para pemuda yang telah dia ungkapkan rahasianya. Buku ini akan mengajari Anda rahasia itu--dan rahasia orang hebat lainnya seperti dia. Ini akan menunjukkan kepada Anda tidak hanya apa yang harus dilakukan tetapi juga bagaimana melakukannya. Jika Anda mempelajari dan menerapkan teknik-teknik dasar sederhana yang diungkapkan di sini, Anda akan menguasai rahasia kesuksesan sejati dan abadi--dan Anda mungkin mendapatkan apapun yang Anda inginkan dalam hidup!"
+        },
+
+        {
+            "id" : 11,
+            "images": "coverPkiSibar.jpg",
+            "title": "PKI SIBAR",
+            "penulis": "Harry A. Poeze",
+            "kategori": "Sejarah",
+            "deskripsi": "Pada tahun 1943 pertama kalinya pasukan penjajah Belanda mundur dari wilayah Indonesia atas diambil alihnya Indonesia oleh Jepang. Belanda masih bertekad untuk menaklukan Indonesia, mereka, utamanya sang birokrat Belanda Charles van der Plas pun mencari cara untuk diam-diam kembali menguasai Indonesia. Salah satunya dengan pembentukan persekutuan atas organisasi Serikat Indonesia Baroe di Australia."
         }
     ]
 }
