@@ -68,8 +68,40 @@
             "images" : "coverGreatAtWork.jpg",
             "title" : "Great at Work",
             "penulis" : "Morten T. Hansen",
-            "kategori": "Life Style",
+            "kategori": "Gaya Hidup",
             "deskripsi": "Kita sering mendengar istilah work smart, tetapi tidak banyak yang tahu maksud yang sebenarnya dari bekerja secara smart. Buku ini akan mengupas tuntas 7 Tips “Work Smarter” yang telah dibuktikan dari riset/survey dan penelitian Morten Hansen dan timnya. Buku ini juga dilengkapi dengan pemaparan statistik riset dan kisah-kisah inspiratif (contoh kasus) dari orang-orang yang telah mengadopsi salah satu atau beberapa daripada tips work smart ini, tujuannya agar pembaca lebih faham dan terutama mengaplikasikannya tip-tip tersebut dalam pekerjaan sehari-hari."
+        },
+        {
+            "id" : 9,
+            "images" : "coverFindingIkigai.jpg",
+            "title" : "Finding Ikigai in My Journey",
+            "penulis" : "Vita Wahid",
+            "kategori": "Gaya Hidup",
+            "deskripsi" : "Ikigai adalah sebuah konsep hidup Jepang tentang menjalani kehidupan dengan penuh tujuan dan arti. Konsep tersebut beberapa tahun belakangan menjadi cukup popular di dunia. Sebagian orang mengartikan menjalani ikigai artinya bisa meraih kesuksesan dan kebahagiaan sejati dalam hidup. Padahal sebenarnya, ikigai sangat bisa dirasakan dalam keseharian tanpa perlu dikaitkan dengan sebuah pencapaian. Bahkan, dalam situasi hidup yang sedang tidak berpihak kepada kita, ikigai dapat membantu kita untuk tetap menjalani hidup dengan bermakna."
+        },
+        {
+            "id" : 10,
+            "images" : "coverThinkAndGrow.jpg",
+            "title" : "Think and Grow Rich",
+            "penulis" : "Napoleon Hill",
+            "kategori" : "Gaya Hidup",
+            "deskripsi" : "Buku ini berisi rahasia menghasilkan uang yang bisa mengubah hidup Anda. Think and Grow Rich, berdasarkan Hukum Kesuksesan penulis yang terkenal, mewakili kebijaksanaan suling dari orang-orang terkemuka yang kaya raya dan berprestasi. Formula ajaib Andrew Carnegie untuk sukses menjadi inspirasi langsung bagi buku ini. Carnegie mendemonstrasikan kekokohannya ketika kepelatihannya membawa keberuntungan bagi para pemuda yang telah dia ungkapkan rahasianya. Buku ini akan mengajari Anda rahasia itu--dan rahasia orang hebat lainnya seperti dia. Ini akan menunjukkan kepada Anda tidak hanya apa yang harus dilakukan tetapi juga bagaimana melakukannya. Jika Anda mempelajari dan menerapkan teknik-teknik dasar sederhana yang diungkapkan di sini, Anda akan menguasai rahasia kesuksesan sejati dan abadi--dan Anda mungkin mendapatkan apapun yang Anda inginkan dalam hidup!"
+        },
+        {
+            "id" : 11,
+            "images": "coverPkiSibar.jpg",
+            "title": "PKI SIBAR",
+            "penulis": "Harry A. Poeze",
+            "kategori": "Sejarah",
+            "deskripsi": "Pada tahun 1943 pertama kalinya pasukan penjajah Belanda mundur dari wilayah Indonesia atas diambil alihnya Indonesia oleh Jepang. Belanda masih bertekad untuk menaklukan Indonesia, mereka, utamanya sang birokrat Belanda Charles van der Plas pun mencari cara untuk diam-diam kembali menguasai Indonesia. Salah satunya dengan pembentukan persekutuan atas organisasi Serikat Indonesia Baroe di Australia."
+        },
+        {
+            "id" : 12,
+            "images": "coverDiBalikRuntuhnyaMajapahit.jpg",
+            "title" : "Di Balik Runtuhnya Majapahit Dan Berdirinya Kerajaan-Kerajaan Islam Di Jawa",
+            "penulis": "Drs. M. Rizal Qosim, M.Si",
+            "kategori": "Sejarah",
+            "deskripsi": "Majapahit merupakan kerajaan Hindu terbesar yang pernah ada di bumi nusantara ini, dengan raja Hayam Wuruknya. Majapahit berhasil menguasai hampir seluruh negeri ini ditambah dengan beberapa wilayah di negara-negara tetangga. Hal tersebutlah yang menjadikan Majapahit pada kala itu sangat terkenal namanya. Majapahit berdiri ketika Singasari runtuh. Masa kejayaan pernah dirasakan Kerajaan Majapahit ketika Tribuana Tungga Dewi berkuasa dan masih berlanjut hingga masa pemerintahan Hayam Wuruk dengan dibantu mahapatih Gadjah Mada. Ketika Kusumawardhani naik tahta, kemelut di dalam kerajaan tidak dapat dikendalikan oleh sang raja. Pada akhirnya, Brawijaya V menorah sejarah sebagai raja terakhir Kerajaan Majapahit. Keruntuhan Kerajaan Majapahit ini mengundang sejumlah misteri. Perpecahan Majapahit menjadi dua kerajaan, yaitu Majapahit Timur dan Majapahit Barat, juga menimbulkan tanda tanya. Mengupas sejarah di balik keruntuhan majapahit akan membuka wacana kita untuk mengetahui lebih banyak apa yang terjadi sebenarnya. Setelah keruntuhan Majapahit, Kesultanan Demak berdiri dengan raja pertamanya Raden Patah yang juga masih ada garis keturunan dari Majapahit. Demak, juga kerajaan-kerajaan Islam di Jawa mulai tumbuh membesar, termasuk Kesultanan Cirebon. Setelah Demak runtuh muncul lagi Kerajaan Pajang yang dipimpin oleh sultan Hadiwijaya atau yang biasa kita kenal dengan sebutan Joko Tingkir dan kemudian disusul Kerajaan Mataram. Buku ini membahas mengenai cerita awal runtuhnya kerajaan Majapahit sampai dengan kemunculan kerajaan-kerajaan besar Islam di Nusantara."
         }
     ]
     
